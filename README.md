@@ -60,7 +60,7 @@ de sécurité actualisés.
 
 
 ## Lancer le projet
-- Vous devez avoir Node et `npm` installés localement sur votre machine.
+- Vous devez avoir `Node` et `npm` installés localement sur votre machine.
 - Clonez ce repo en tapant `git clone https://github.com/flo701/piiquante.git`.
 
 ### Démarrer le back-end
@@ -68,6 +68,7 @@ de sécurité actualisés.
 - Puis tapez `npm install`;
 - Créez votre base de données en suivant les modèles Sauce et User dans le dossier "models";
 - Renommez le fichier `.env.example` en `.env`, puis renseignez `DB_USERNAME` avec votre nom d'utilisateur pour votre base de données, et `DB_PASSWORD` avec votre mot de passe pour cette même base de données ;
+- Renseignez `RANDOM_TOKEN_SECRET` avec la variable de votre choix ;
 - Dans votre terminal, toujours dans le dossier back-end, tapez `npm start`. Vous devriez voir inscrit `[nodemon] starting` `node server.js`
 `Listening on port 3000`
 `Connexion à MongoDB réussie !`.
@@ -76,5 +77,6 @@ de sécurité actualisés.
 - Ouvrez un autre terminal et placez-vous dans le dossier front-end en tapant `cd front-end`;
 - Tapez `npm install`, puis `npm start`. Vous devrier voir `** Angular Live Development Server is listening on localhost:4200, open your browser on http://localhost:4200/ **      
 √ Compiled successfully.`
+- Vous pouvez à présent voir le site sur votre navigateur et interagir avec l'API.
 
 
