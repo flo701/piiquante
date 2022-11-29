@@ -12,11 +12,11 @@ secrètes. Pour tirer parti de son succès et générer davantage de buzz, l'ent
 souhaite créer une application web dans laquelle les utilisateurs peuvent ajouter
 leurs sauces préférées et liker ou disliker les sauces ajoutées par les autres.
 ### Spécifications de l'API
-- [Tableau des spécifications](./front-end/src/assets/docs/specifications_de_l_api.png)
-- API Errors
+- [Tableau des spécifications](./front-end/src/assets/docs/specifications_de_l_api.png).
+- API Errors :
 Les erreurs éventuelles doivent être renvoyées telles qu'elles sont produites, sans
 modification ni ajout. Si nécessaire, utilisez une nouvelle Error().
-- API Routes
+- API Routes :
 Toutes les routes sauce pour les sauces doivent disposer d’une autorisation (le
 token est envoyé par le front-end avec l'en-tête d’autorisation : « Bearer <token> »).
 Avant que l'utilisateur puisse apporter des modifications à la route sauce, le code
