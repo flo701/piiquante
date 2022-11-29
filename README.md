@@ -1,7 +1,7 @@
 ![logo piiquante](./front-end/src/assets/images/piiquante.png)
 
 - Projet 6 du parcours "Développeur Web" d'OpenClassrooms :
-- "Construisez une API sécurisée pour une application d'avis gastronomique".
+- "Construisez une API sécurisée pour une application d'avis gastronomiques".
 
 - Pour ce projet, nous devions développer le back-end, construire l'API. Le front-end de l'application avait déjà été developpé à l'aide d'Angular. Vous trouverez [ici](https://github.com/OpenClassrooms-Student-Center/Web-Developer-P6.git) le repo initial du front-end.
 
