@@ -65,10 +65,10 @@ de sécurité actualisés.
 
 ### Démarrer le back-end
 - Dans votre éditeur de code, placez-vous dans le dossier back-end en tapant `cd back-end` ;
-- Puis tapez npm install ;
-- Crééez votre base de données en suivant les modèles Sauce et User dans le dossier "models";
-- Renommez le fichier .env.example en .env, puis renseignez `DB_USERNAME` avec votre nom d'utilisateur pour votre base de données, et `DB_PASSWORD` avec votre mot de passe pour cette même base de données ;
-- Dans votre terminal, toujours dans le dossier back-end, tapez `npm start`. Vous devriez voir inscrit `[nodemon] starting `node server.js`
+- Puis tapez `npm install`;
+- Créez votre base de données en suivant les modèles Sauce et User dans le dossier "models";
+- Renommez le fichier `.env.example` en `.env`, puis renseignez `DB_USERNAME` avec votre nom d'utilisateur pour votre base de données, et `DB_PASSWORD` avec votre mot de passe pour cette même base de données ;
+- Dans votre terminal, toujours dans le dossier back-end, tapez `npm start`. Vous devriez voir inscrit `[nodemon] starting` `node server.js`
 `Listening on port 3000`
 `Connexion à MongoDB réussie !`.
 
