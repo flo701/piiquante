@@ -1,0 +1,1 @@
+![logo piiquante](./front-end/src/assets/images/piiquante.png)
